@@ -1,6 +1,6 @@
 # Luiz Eduardo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Luiz Eduardo</strong>, <strong>estudante do primeiro periodo de ADS na faculdade SENAC/strong> 👨🏻‍💻 
+Eu sou <strong>Luiz Eduardo</strong>, <strong>estudante do primeiro periodo de ADS na faculdade SENAC 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Phyton</strong> 
 - 💬 Pergunte-me sobre: <strong>Basquete</strong>
