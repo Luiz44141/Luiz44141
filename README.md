@@ -3,8 +3,8 @@
 Eu sou <strong>Luiz Eduardo</strong>, <strong>estudante do primeiro periodo de ADS na faculdade SENAC/strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Phyton</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 💬 Pergunte-me sobre: <strong>Basquete</strong>
+- 📣 Nós podemos falar em: <strong>Português</strong>
 <!---
 <div align="center">
 
